@@ -6,6 +6,9 @@ public class PhoneInfo {
 	}
 	private void phoneMieiNum() {
 		System.out.println("AXZ6501255868635");
+		System.out.println("Ramarajan");
+		System.out.println("Kumar");
+		System.out.println("sivaraman");
 	}
 	private void camera() {
 		System.out.println("240 Px");
